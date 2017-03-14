@@ -5,6 +5,11 @@ import android.os.Bundle;
 
 import com.codingmaster.slib.S;
 
+/**
+ * 简介：
+ *
+ * @author 王强（249346528@qq.com） 2017/3/14
+ */
 public class MainActivity extends AppCompatActivity {
     private int cmds[] = {1, 2, 2, 3, 1};
     RobotHandlerManager<String> handlerManager;
